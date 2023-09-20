@@ -8,6 +8,7 @@ Make an OpenAI account [here](https://platform.openai.com/) and then generate an
 
 The live Zoom classes will be held here:
 - [Day 1 (LLM-driven data engineering)](https://us06web.zoom.us/meeting/register/tZ0pcuqppjopHNFyy-G52Hh2jKdRlePT66oe#/registration)
+    - [Video lecture](https://www.dataengineer.io/course/large-language-models-day-1-lecture)
 - [Day 2 (LLM dev with LangChain)](https://us06web.zoom.us/meeting/register/tZYude6grj8pEt23y6J1rhHcXL2ytMX8IRzy#/registration)
 
 Store the API key as an environment variable like:
